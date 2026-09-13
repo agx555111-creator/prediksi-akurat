@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agx555111-creator.github.io/prediksi-akurat/sitemap.xml
